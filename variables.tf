@@ -26,7 +26,7 @@ variable "region" {
 }
 
 variable "InstanceShape" {
-    default = "VM.Standard2.8"
+    default = "VM.Standard2.1"
 }
 
 variable "BastionShape" {
